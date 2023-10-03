@@ -1,0 +1,1 @@
+{"version":3,"file":"mailer.config.js","sourceRoot":"","sources":["../../../src/common/configs/mailer.config.ts"],"names":[],"mappings":";;AAAA,2CAA4C;AAE5C,kBAAe,IAAA,mBAAU,EAAC,cAAc,EAAE,GAAG,EAAE,CAAC,CAAC;IAC/C,iBAAiB,EAAE,OAAO,CAAC,GAAG,CAAC,uBAAuB;IACtD,mBAAmB,EAAE,OAAO,CAAC,GAAG,CAAC,yBAAyB;IAC1D,mBAAmB,EAAE,OAAO,CAAC,GAAG,CAAC,yBAAyB;CAC3D,CAAC,CAAC,CAAC"}
